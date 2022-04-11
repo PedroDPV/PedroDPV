@@ -1,7 +1,7 @@
 ### Olá, meu nome é Pedro Vasconcelos 👋
 
 
-- 🔭 Hoje eu trabalho como Free lancer com foco em Web scrapping , Automações e Análise de dados
+- 🔭 Hoje eu trabalho como Freelancer com foco em Web scrapping , Automações e Análise de dados
 - 🌱 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 --> DISPONÍVEL P/ TRABALHO NA ÁREA
 
