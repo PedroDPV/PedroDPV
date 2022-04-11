@@ -5,6 +5,7 @@
 - 🌱 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 --> DISPONÍVEL P/ TRABALHO NA ÁREA
 
+
 <div align="center">
   <a href="https://github.com/PedroDPV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDPV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
