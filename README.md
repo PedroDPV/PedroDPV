@@ -1,7 +1,7 @@
 ### Olá, meu nome é Pedro Vasconcelos 👋
 
-* 🔭 Hoje eu trabalho como Freelancer com foco em Web scrapping , Automações e Análise de dados
-* 🌱 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
+* 🔭 Hoje eu trabalho como Freelancer com foco em Scraping, Automações e Análise de Dados
+* 🌱 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas 
 --> DISPONÍVEL P/ TRABALHO NA ÁREA
 
 <div align="center">
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="PedroDPV-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/887083314777825324/963113737701699644/150px-Yoda.jpg">  
+  <img align="right" alt="PedroDPV-pic" height="150" style="border-radius:50px;" 
 </div>
   
   <div> 
