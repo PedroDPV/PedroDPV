@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/PedroDPV">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=PedroDPV&show_icons=true&theme=blue-1ms&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDPV&layout=compact&langs_count=7&theme=blue-1ms"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDPV&show_icons=true&theme=blue-1ms&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDPV&layout=compact&langs_count=7&theme=blue-1ms"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="PedroDPV-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/887083314777825324/963113737701699644/200px-Yoda.jpg">  
+  <img align="right" alt="PedroDPV-pic" height="150" style="border-radius:50px;"    src="https://media.discordapp.net/attachments/887083314777825324/963113737701699644/150px-Yoda.jpg">  
 </div>
   
   <div> 
