@@ -1,8 +1,8 @@
 ### Olá, meu nome é Pedro Vasconcelos 👋
 
 * 🔭 Hoje eu trabalho como Freelancer com foco em Scraping, Automações e Análise de Dados
-* 🌱 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas 
---> DISPONÍVEL P/ TRABALHO NA ÁREA
+* 🌱 Atualmente cursando o segundo período de Ciência de dados 
+
 
 <div align="center">
   <a href="https://github.com/PedroDPV">
