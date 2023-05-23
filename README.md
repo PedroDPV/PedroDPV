@@ -1,7 +1,8 @@
 ### Olá, meu nome é Pedro Vasconcelos 👋
 
-* 🔭 Hoje eu trabalho como Freelancer com foco em Scraping, Automações e Análise de Dados
-* 🌱 Atualmente cursando o segundo período de Ciência de dados 
+* 🔭 Hoje eu trabalho como SRE & Professional Data Engineer (Google)
+* 🌱 Atualmente cursando Ciência de dados 
+*  
 
 
 <div align="center">
