@@ -1,8 +1,10 @@
 ### Olá, meu nome é Pedro Vasconcelos 👋
 
-* 🔭 Hoje eu trabalho como SRE & Professional Data Engineer (Google)
-* 🌱 Atualmente cursando Ciência de dados 
-*  
+* 🔭 Atuo há 2 anos como Engenheiro de dados pela Sauter.
+* 🌱 Certificado como Professional Data Engineer ( Google )
+* 🔭 Especialista em ambiente Cloud GCP (com experiência em Azure / AWS).
+* 🌱 Atualmente cursando o último perído de Ciência de Dados. 
+  
 
 
 <div align="center">
